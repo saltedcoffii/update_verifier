@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from __future__ import print_function
 
 from asn1crypto.cms import ContentInfo
